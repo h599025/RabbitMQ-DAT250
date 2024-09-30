@@ -6,11 +6,12 @@
 
 <h3>Screenshots:</h3>
 
-<p>Experiment 2:<br><img alt="HelloWorld" src=""></p>
+<p>Experiment 2:<br><img width="1352" alt="HelloWorld" src="https://github.com/user-attachments/assets/74909059-ae2b-4e99-b1ea-220c4731dfaf">
+</p>
 
-<p>Experiment 3:<br><img alt="RoundRobinDispatching" src=""></p>
+<p>Experiment 3:<br><img width="1148" alt="RoundRobinDispatching" src="https://github.com/user-attachments/assets/541fbeee-3eb6-47bd-9641-add5dedbb877"></p>
 
-<p>Experiment 4:<br><img alt="Bindings list" src=""></p>
+<p>Experiment 4:<br><img width="749" alt="Bindings list" src="https://github.com/user-attachments/assets/7c70c0a9-16cc-4894-acad-7ac9207506f1"></p>
 
 <h3>Link to my code:</h3>
-<hlink></hlink>
+<hlink>https://github.com/h599025/RabbitMQ-DAT250</hlink>
